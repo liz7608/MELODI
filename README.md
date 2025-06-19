@@ -8,13 +8,13 @@ Our SaaS platform empowers independent musicians by offering a project managemen
 
 ## 🚀 Frontend
 
-- **Framework**: [React](https://reactjs.org/) (with React Native for mobile support)  
+- **Framework**: [React](https://react.dev/learn/installation) (with React Native for mobile support)  
   🛠 Front-end development tool; Code in JavaScript  
 
 - **Drag-and-Drop UI**: [`react-beautiful-dnd`](https://github.com/atlassian/react-beautiful-dnd)  
   🛠 UI Builder for React  
 
-- **Real-Time Collaboration**: [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) or [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)  
+- **Real-Time Collaboration**: [Supabase](https://supabase.com/docs/guides/cron/install)  
   🛠 Tracks real-time updates for user-made edits  
 
 - **Visual Canvas**: Custom-built drag-and-drop grid canvas  
