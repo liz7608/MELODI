@@ -18,27 +18,21 @@ Our SaaS platform empowers independent musicians by offering a project managemen
 - **Framework**: React (with React Native for mobile support)
     
     <aside>
-    🛠
-    
-    Front-end development tool; Code in Javascript
+    🛠 Front-end development tool; Code in Javascript
     
     </aside>
     
 - **Drag-and-Drop UI**: `react-beautiful-dnd` for intuitive, card-based interface
     
     <aside>
-    🛠
-    
-    UI Builder for React
+    🛠 UI Builder for React
     
     </aside>
     
 - **Real-Time Collaboration**: WebSockets or Firebase for updates (chat, edits)
     
     <aside>
-    🛠
-    
-    Tracks real-time updates for user-made edits
+    🛠 Tracks real-time updates for user-made edits
     
     </aside>
     
@@ -46,18 +40,14 @@ Our SaaS platform empowers independent musicians by offering a project managemen
     - Libraries: `Konva.js` or `fabric.js` for 2D canvas rendering and manipulation
         
         <aside>
-        🛠
-        
-        Creating visual canvases, similar to Figma or Milanote
+        🛠 Creating visual canvases, similar to Figma or Milanote
         
         </aside>
         
 - **Audio Player UI**: Waveform visualization via `wavesurfer.js` or `howler.js`
     
     <aside>
-    🛠
-    
-    Displays waveform; more just for visuals
+    🛠 Displays waveform; more just for visuals
     
     </aside>
     
@@ -69,9 +59,7 @@ Our SaaS platform empowers independent musicians by offering a project managemen
 - **API Development**: Node.js (Express) or Python (FastAPI)
     
     <aside>
-    🛠
-    
-    Backend language
+    🛠 Backend language
     
     </aside>
     
@@ -79,27 +67,21 @@ Our SaaS platform empowers independent musicians by offering a project managemen
     - PostgreSQL for relational data (projects, users, notes)
     
     <aside>
-    🛠
-    
-    Structured database; rows and columns; typically for text, memos, and sheets
+    🛠 Structured database; rows and columns; typically for text, memos, and sheets
     
     </aside>
     
     - MongoDB for unstructured content (media uploads, canvas objects)
     
     <aside>
-    🛠
-    
-    Unstructured database; for free-form content like media
+    🛠 Unstructured database; for free-form content like media
     
     </aside>
     
 - **Authentication & Realtime Backend**: Firebase Auth + Firebase Firestore or Supabase as alternative
     
     <aside>
-    🛠
-    
-    User authentication
+    🛠 User authentication
     
     </aside>
     
@@ -108,9 +90,7 @@ Our SaaS platform empowers independent musicians by offering a project managemen
     - Tools: `ffmpeg`, `sox`, or Node.js-based audio libraries like `audiomass`, `Tone.js`
         
         <aside>
-        🛠
-        
-        Renders audio for processing
+        🛠 Renders audio for processing
         
         </aside>
         
@@ -122,9 +102,7 @@ Our SaaS platform empowers independent musicians by offering a project managemen
 ### **Via Zapier or Make.com:**
 
 <aside>
-🛠
-
-Automation/Integration between our platform to third-party software
+🛠 Automation/Integration between our platform to third-party software
 
 </aside>
 
@@ -141,9 +119,7 @@ Automation/Integration between our platform to third-party software
 - **Cloud Storage**: Firebase Storage or AWS S3 for audio/image files
     
     <aside>
-    🛠
-    
-    Storage for all assets
+    🛠 Storage for all assets
     
     </aside>
     
@@ -164,27 +140,21 @@ Automation/Integration between our platform to third-party software
 - **Hosting**: Vercel for frontend, Render or Heroku for backend (starter-friendly)
     
     <aside>
-    🛠
-    
-    Vercel used to build the web platform; Render or Heroku for Backend
+    🛠 Vercel used to build the web platform; Render or Heroku for Backend
     
     </aside>
     
 - **CI/CD**: GitHub Actions
     
     <aside>
-    🛠
-    
-    Git actions to navigate 
+    🛠 Git actions to navigate 
     
     </aside>
     
 - **Monitoring**: LogRocket (frontend), Sentry (backend)
     
     <aside>
-    ⚠️
-    
-    SAVE FOR FUTURE DATE: Essentially a CRM tool for frontend and backend updates and debugging
+    ⚠️ SAVE FOR FUTURE DATE: Essentially a CRM tool for frontend and backend updates and debugging
     
     </aside>
     
