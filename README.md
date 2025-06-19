@@ -97,9 +97,7 @@ Our SaaS platform empowers independent musicians by offering a project managemen
 
 ---
 
-### **Third-Party Integrations**
-
-### **Via Zapier or Make.com:**
+### **Third-Party Integrations Via Zapier or Make.com:**
 
 <aside>
 🛠 Automation/Integration between our platform to third-party software
